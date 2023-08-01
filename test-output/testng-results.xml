@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-10T13:00:15 IST" name="Default suite" finished-at="2023-07-10T13:01:06 IST" duration-ms="51198">
+    <groups>
+    </groups>
+    <test started-at="2023-07-10T13:00:15 IST" name="Default test" finished-at="2023-07-10T13:01:06 IST" duration-ms="51198">
+      <class name="TestLayer.LoginPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.LoginPage@12aba8be]" started-at="2023-07-10T13:00:15 IST" name="setUp" finished-at="2023-07-10T13:00:30 IST" duration-ms="15825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AllInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestLayer.LoginPage@12aba8be]" started-at="2023-07-10T13:00:31 IST" name="AllInfo" data-provider="getAllData" finished-at="2023-07-10T13:00:41 IST" duration-ms="9893" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pawar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9766681087]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pawar@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Latur]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Latur]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MH]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[413512]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Ajit@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Ajit9766]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Ajit9766]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllInfo -->
+        <test-method signature="AllInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestLayer.LoginPage@12aba8be]" started-at="2023-07-10T13:00:41 IST" name="AllInfo" data-provider="getAllData" finished-at="2023-07-10T13:00:56 IST" duration-ms="14899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jadhav]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9854765555]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rahul@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[GOA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[98745]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[ALBANIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Rahul@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Rahul123]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Rahul123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllInfo -->
+        <test-method signature="AllInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestLayer.LoginPage@12aba8be]" started-at="2023-07-10T13:00:56 IST" name="AllInfo" data-provider="getAllData" finished-at="2023-07-10T13:01:06 IST" duration-ms="9670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sagar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9854216532]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Amit@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Nashik]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nashik]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[958455]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Amit@156]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Amit123]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Amit123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllInfo -->
+      </class> <!-- TestLayer.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
